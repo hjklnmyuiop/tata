@@ -1,2 +1,3 @@
 hello
-goodgood morningnihao
+good morning
+nihao
